@@ -1,0 +1,20 @@
+{
+  "name": "response-time-for-server",
+  "version": "1.0.0",
+  "description": "Module for checking the response time of the server for nodejs and browser",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "time",
+    "check",
+    "server"
+  ],
+  "author": "saidelhabhab",
+  "license": "ISC"
+}
