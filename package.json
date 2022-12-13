@@ -1,6 +1,6 @@
 {
   "name": "response-time-for-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module for checking the response time of the server for nodejs and browser",
   "main": "index.js",
   "directories": {
@@ -16,5 +16,6 @@
     "server"
   ],
   "author": "saidelhabhab",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "https://github.com/saidelhabhab/response-time-for-server.git"
 }
